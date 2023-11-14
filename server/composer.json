@@ -1,0 +1,17 @@
+{
+    "name": "raassh-23/technical-test",
+    "autoload": {
+        "psr-4": {
+            "Raassh23\\TechnicalTest\\": "src/",
+            "Raassh23\\TechnicalTest\\Controller": "src/controller/",
+            "Raassh23\\TechnicalTest\\App": "src/app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "raassh-23",
+            "email": "muh.nur.abdurrauf@gmail.com"
+        }
+    ],
+    "require": {}
+}

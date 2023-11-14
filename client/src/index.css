@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.text-input {
+    margin: 0.75em;
+}
+
+.btn-group {
+    margin: 0.25em 0.75em;
+}
+
+.btn-group>button {
+    margin-right: 0.5em;
+}
+
+.result {
+    margin: 0.25em 0.75em;
+}
+
+p.output {
+    margin: 0;
+}
